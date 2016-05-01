@@ -5,4 +5,7 @@ This repository contains code written in Theano that uses the maxout architectur
 ## Results
 ~70% accuracy with 5 affine units. 
 
-
+## Credits
+Paul Ruvolo
+benanne
+NewMu
